@@ -1,0 +1,21 @@
+body{
+    background: #870000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #190A05, #870000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #190A05, #870000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.card{
+    background-color: #000000;
+    box-shadow: -40px 40px 50px;
+    color: #000000a4;
+}
+
+.list-group-item{
+    background-color: #000000;
+}
+
+.col{
+    display: flex;
+    justify-content: center;
+}

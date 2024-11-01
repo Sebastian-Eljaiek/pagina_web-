@@ -1,0 +1,19 @@
+.col{
+    display: flex;
+    justify-content: center;
+    
+}
+
+body{
+    background: #870000; 
+    background: -webkit-linear-gradient(to right, #190A05, #870000); 
+    background: linear-gradient(to right, #190A05, #870000); 
+
+}
+
+.card{
+    background-color: #3a1616;
+    box-shadow: -40px 40px 50px;
+    color: #00000093;
+}
+
